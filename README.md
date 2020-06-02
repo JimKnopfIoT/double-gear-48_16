@@ -6,6 +6,6 @@ Requirements:
 * Filament of your choice
 
 ## View
-![gear](gear-48_16.jpg)
-![gear](20190901-DSC03980.jpg)
+<img src="gear-48_16.jpg" width="500" align="center"> 
+<img src="20190901-DSC03980.jpg" width="500" align="center"> 
 
